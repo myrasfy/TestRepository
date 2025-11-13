@@ -476,7 +476,7 @@ git branch -d test
 git switch master
 ```
 
- и выполняем слияние 2-х веток в одну
+и выполняем слияние 2-х веток в одну
 
 ```shell
 git merge anybranch
@@ -484,7 +484,7 @@ git merge anybranch
 
 #### Файл .gitignore
 
-"Чёрный список" файлов, которые не нужно сохранять в проекте. Обычно это фременные файлы.
+"Чёрный список" файлов (их расширений), которые не нужно сохранять в проекте. Обычно это фременные файлы.
 
 [A collection of .gitignore templates](https://github.com/github/gitignore)
 
@@ -651,3 +651,11 @@ choco install tree
 1. Все файлы с именами латинскими буквами без пробелов
 
 [Мои заметки по базовой работе с Git](https://gitflic.ru/project/rurewa/education/blob?file=content%2FGit%2FREADME.md&branch=master&mode=markdown)
+
+## Вопросы к экзамену
+
+[Вопросы к экзамену по дисциплине «ОСНОВЫ ПРОЕКТИРОВАНИЯ БАЗ ДАННЫХ»](/content/Basics_database_design/questions.md)
+
+[Вопросы к экзамену по дисциплине «ПОДДЕРЖКА И ТЕСТИРОВАНИЕ ПРОГРАММНЫХ МОДУЛЕЙ»](/content/SupportAndTesting_of_software_modules/questions.md)
+
+[Вопросы к экзамену по дисциплине «ОБЕСПЕЧЕНИЕ КАЧЕСТВА ФУНКЦИОНИРОВАНИЯ КОМПЬЮТЕРНЫХ СИСТЕМ»](/content/Ensuring_quality_computer_systems_functioning/questions.md)
