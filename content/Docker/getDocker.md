@@ -483,3 +483,5 @@ docker image prune -a
 ```shell
 docker rmi -f $(docker images -q)
 ```
+
+> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!

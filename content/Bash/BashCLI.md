@@ -265,7 +265,7 @@ project/
 одной командой
 ```shell
 mkdir -p project/{css,js,img/ico,fonts,pages}
-```
+```simple_flask_app
 
 Копировать файл в указанную папку
 ```shell
@@ -394,3 +394,5 @@ sudo shutdown -p now
 sudo systemctl poweroff
 ```
 
+
+> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!

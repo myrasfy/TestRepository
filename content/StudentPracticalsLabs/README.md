@@ -13,3 +13,4 @@
 - [Самостоятельная работа по установке и запуску готового образа Apache со стандартной приветственной страницей контейнера](/content/StudentPracticalsLabs/ready_made_docker_image.md)
 - [Скрипт синхронизации репозиториев](/content/StudentPracticalsLabs/scriptSyncRep.md)
 - [Скрипт обновления установленных приложений Windows, Linux и Mac](/content/StudentPracticalsLabs/upgradeAlApps.md)
+> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!
