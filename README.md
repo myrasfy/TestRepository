@@ -198,3 +198,5 @@ git config --global user.email "rosa@mail.ru"
 * [Вопросы к экзамену по дисциплине «ОБЕСПЕЧЕНИЕ КАЧЕСТВА ФУНКЦИОНИРОВАНИЯ КОМПЬЮТЕРНЫХ СИСТЕМ»](/content/Ensuring_quality_computer_systems_functioning/questions.md)
 * [Вопросы к экзамену по дисциплине "Инструментальные средства разработки ПО"](/content/SoftwareDevelopmentTools/questions.md)
 * [Вопросы к экзамену по дисциплине "Информационные технологии"](/content/IT/questions.md)
+
+> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!

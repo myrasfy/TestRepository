@@ -249,3 +249,4 @@ ON CONFLICT (email) DO NOTHING;
 
 - Загрузить и установить новый образ PostgreSQL из папки `postgres-docker-project`
 `docker compose up -d`
+> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!
