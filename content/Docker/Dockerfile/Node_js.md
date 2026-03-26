@@ -97,4 +97,5 @@ docker run -d -p 3000:3000 --name my-node-app my-node-app
 ```shell
 docker run -d -p 3000:3000 -v $(pwd):/app --name my-node-app-dev my-node-app
 ```
-> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!
+
+> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!

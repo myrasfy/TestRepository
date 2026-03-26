@@ -100,4 +100,5 @@ epmi --auto python3-module-pip python3-module-setuptools python3-tools
 ```shell
 epmi --auto java-25-openjdk
 ```
-> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!
+
+> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!

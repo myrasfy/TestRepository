@@ -7,4 +7,5 @@
 - [Docker compose конетейнеры с PostgresSQL](/content/Docker/DockerCompose/PostgresSQL.md)
 - [videoeditor](https://github.com/trykimu/videoeditor)
 - []()
-> Если вы обраружили ошибку в этом тексте - сообщите пожалуйста автору!
+
+> Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
