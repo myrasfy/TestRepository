@@ -6,19 +6,23 @@
 
 > Никогда в разработке не используйте пробелы и спец.символы в именах файлов и каталогов!
 
+> Создание проекта лучше начать с "чистого листа", предварительно остановив и удалив все другие контейнеры и образы!
+
 ### Вариант с томами (с сохранением данных)
 
 в **Windows Powershell**
 ```shell
-docker run -d
-  --name portainer
-  -p 9000:9000
-  -p 9443:9443
-  -v /var/run/docker.sock:/var/run/docker.sock
-  -v portainer_data:/data
-  --restart unless-stopped
+docker run -d `
+  --name portainer `
+  -p 9000:9000 `
+  -p 9443:9443 `
+  -v /var/run/docker.sock:/var/run/docker.sock `
+  -v portainer_data:/data `
+  --restart unless-stopped `
   portainer/portainer-ce:latest
 ```
+
+> Если эта команда в Powershell не работает, то удалите из кода апострофы `
 
 в **Git-Bash/Linux/WSL 2.0/Mac**
 ```shell
