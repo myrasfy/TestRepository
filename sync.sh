@@ -13,7 +13,7 @@ rm -rf temp
 
 echo "Pushing updates..."
 git add .
-git commit -m "sync"
+git commit -m "update"
 git push
 
 echo "Success!"
